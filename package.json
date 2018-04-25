@@ -1,0 +1,25 @@
+{
+  "name": "is-factorial",
+  "version": "1.0.0",
+  "description": "Check if something is a factorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trubitsyn/is-factorial.git"
+  },
+  "keywords": [
+    "factorial", "math", "is", "match", "check"
+  ],
+  "author": "Nikola Trubitsyn",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/trubitsyn/is-factorial/issues"
+  },
+  "homepage": "https://github.com/trubitsyn/is-factorial#readme",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
