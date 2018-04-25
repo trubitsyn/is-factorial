@@ -11,7 +11,7 @@ $ npm install --save is-factorial
 ## Usage
 
 ```js
-var isFactorial = require('is-factorial');
+const isFactorial = require('is-factorial');
 
 isFactorial(120);
 //=> true
