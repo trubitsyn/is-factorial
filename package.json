@@ -1,6 +1,6 @@
 {
   "name": "is-factorial",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if something is a factorial",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,11 @@
     "url": "git+https://github.com/trubitsyn/is-factorial.git"
   },
   "keywords": [
-    "factorial", "math", "is", "match", "check"
+    "factorial",
+    "math",
+    "is",
+    "match",
+    "check"
   ],
   "author": "Nikola Trubitsyn",
   "license": "Apache-2.0",
