@@ -20,7 +20,6 @@ function isFactorial(n) {
     if (typeof n === 'undefined' || n === null) {
         return false;
     }
-
     return factorials.includes(n.toString());
 }
 
