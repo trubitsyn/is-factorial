@@ -19,19 +19,19 @@
 const assert = require('assert');
 const isFactorial = require('./');
 
-it('should match factorials', function() {
+it('should match factorials', () => {
     assert(isFactorial('1'));
     assert(isFactorial('2'));
     assert(isFactorial('120'));
     assert(isFactorial('720'))
 });
 
-it('should not match factorials', function() {
+it('should not match factorials', () => {
     assert(!isFactorial(undefined));
     assert(!isFactorial(null));
     assert(!isFactorial(false));
     assert(!isFactorial({}));
-    assert(!isFactorial(function() {}));
+    assert(!isFactorial(() => {}));
 
     assert(!isFactorial('-1'));
     assert(!isFactorial('-1000'));
