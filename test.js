@@ -16,8 +16,8 @@
 
 'use strict';
 
-var assert = require('assert')
-var isFactorial = require('./')
+const assert = require('assert');
+const isFactorial = require('./');
 
 it('should match factorials', function() {
     assert(isFactorial('1'))
