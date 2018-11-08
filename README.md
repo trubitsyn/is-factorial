@@ -1,4 +1,4 @@
-# is-factorial [![Build Status](https://travis-ci.org/trubitsyn/is-factorial.svg?branch=master)](https://travis-ci.org/trubitsyn/is-factorial) [![npm](https://img.shields.io/npm/dt/is-factorial.svg)](https://www.npmjs.com/package/is-factorial)
+# node-is-factorial [![Build Status](https://travis-ci.org/trubitsyn/node-is-factorial.svg?branch=master)](https://travis-ci.org/trubitsyn/node-is-factorial) [![npm](https://img.shields.io/npm/dt/is-factorial.svg)](https://www.npmjs.com/package/is-factorial)
 > Check if something is a factorial
 
 ## Install
