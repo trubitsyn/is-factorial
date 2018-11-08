@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trubitsyn/is-factorial.git"
+    "url": "git+https://github.com/trubitsyn/node-is-factorial.git"
   },
   "keywords": [
     "factorial",
@@ -23,9 +23,9 @@
   "author": "Nikola Trubitsyn",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/trubitsyn/is-factorial/issues"
+    "url": "https://github.com/trubitsyn/node-is-factorial/issues"
   },
-  "homepage": "https://github.com/trubitsyn/is-factorial#readme",
+  "homepage": "https://github.com/trubitsyn/node-is-factorial#readme",
   "devDependencies": {
     "mocha": "^5.1.1"
   }
