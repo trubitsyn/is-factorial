@@ -25,13 +25,6 @@ function isFactorial(n) {
 
 module.exports = isFactorial;
 
-/* 170! is the last factorial that is less that Number.MAX_VALUE,
-   so there are 170 elements in the array. They are stored as
-   strings because there are floating point issues with numbers
-   greater that Number.MAX_SAFE_INTEGER. If you need values greater
-   than 170!, feel free to open an issue.
-*/
-
 const factorials =
 [
 "1",
