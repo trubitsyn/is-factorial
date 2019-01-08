@@ -1,6 +1,6 @@
 {
   "name": "is-factorial",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Check if something is a factorial",
   "main": "index.js",
   "engines": {
