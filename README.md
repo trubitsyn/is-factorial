@@ -21,7 +21,7 @@ isFactorial('-1');
 ```
 
 ## Limitations
-`isFactorial` returns `false` for numbers greater than `170!`, which is the highest factorial that is smaller than `Number.MAX_VALUE`. If you need to work with numbers greater than 170!, feel free to open an issue.
+`isFactorial` returns `false` for numbers greater than `170!`, which is the highest factorial that is smaller than `Number.MAX_VALUE`. If you need to work with numbers greater than `170!`, feel free to open an issue.
 
 
 ## License
